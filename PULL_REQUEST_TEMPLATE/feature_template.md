@@ -1,6 +1,8 @@
 ## Related Links
-Bug Ticket  (Example: https://jira.rakuten-it.com/jira/browse/ONEPOINT-22204)
-Slack conversation  https://slack.......
+Bug Ticket(Example: https://jira.rakuten-it.com/jira/browse/ONEPOINT-22204):
+
+Slack conversation(Example: https://slack.......):
+
   
 ## Background of This PR
 Please briefly explain the reason for this PR and its background story.
